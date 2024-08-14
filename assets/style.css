@@ -32,5 +32,12 @@ ul {
 
 p {
  text-align: center;
- font-size: 30px;
+ font-size: 40px;
 }
+
+.card{
+    width :90%;
+    margin: 40px auto;
+    border :5px solid gray;
+    box-shadow: 5px 10px #888888;
+} 
